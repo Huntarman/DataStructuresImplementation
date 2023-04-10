@@ -1,9 +1,13 @@
 # DataStructuresImplementation
 Project for "Data structures and Computational complexity" course
 This project contains implementation of following data structures in C++:
+
 -Dynamic Array
+
 -Doubly Linked List
+
 -Max type Heap
+
 -Red-Black Tree
 
 All of them are implemented as objects.
