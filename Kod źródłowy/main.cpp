@@ -893,7 +893,9 @@ int main() {
                 break;
 
             case 5: {
+                cout<<"How many?: \n";
                 int b;
+                cin>>b;
                 generateFile(b);
             }
                 break;
